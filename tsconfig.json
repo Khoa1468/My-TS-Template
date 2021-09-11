@@ -4,6 +4,7 @@
 		"module": "ESNext",
 		"rootDir": "src",
 		"outDir": "dist",
-		"watch": true
+		"watch": true,
+		"removeComments": true
 	}
 }
